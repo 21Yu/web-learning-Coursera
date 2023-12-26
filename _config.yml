@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username:  12DevinWu
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
