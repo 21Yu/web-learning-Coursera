@@ -22,7 +22,7 @@ title: Web learning
 email: 2176495488@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   learning web development in Coursera
-baseurl: "" # the subpath of your site, e.g. /blog
+# the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username: 12DevinWu
