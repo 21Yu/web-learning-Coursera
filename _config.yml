@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Web learning
-email: 12yubeats@gmail.com
+email: 2176495488@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   learning web development in Coursera
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,10 +28,10 @@ twitter_username: N/A
 github_username: 12DevinWu
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
